@@ -4,5 +4,14 @@
   "main": "index.js",
   "repository": "git@github.com:lj0812/webpack-demo.git",
   "author": "lj0812 <xoyljlj@163.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "d2": "webpack --config demo_002/webpack.config.js"
+  },
+  "dependencies": {
+    "webpack": "^4.41.5"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.10"
+  }
 }
