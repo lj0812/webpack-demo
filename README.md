@@ -19,3 +19,4 @@
 3. [webpack配置-入口和上下文](./demo_config/demo_002/README.md)
 4. [webpack配置-输出](./demo_config/demo_003/README.md)
 5. [webpack配置-模块](./demo_config/demo_004/README.md)
+6. [webpack配置-解析](./demo_config/demo_005/README.md)
