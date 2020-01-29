@@ -11,6 +11,7 @@
 5. [webpack核心概念-plugin](./demo_concept/demo_005/README.md)
 6. [webpack核心概念-module](./demo_concept/demo_006/README.md)
 7. [webpack核心概念-依赖图](./demo_concept/demo_007/README.md)
+8. [webpack核心概念-manifest](./demo_concept/demo_008/README.md)
 
 ### 配置
 
