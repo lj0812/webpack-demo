@@ -6,6 +6,7 @@ const pathResolve = rpath => {
 }
 
 module.exports = {
+  mode: 'none',
   entry: pathResolve('index.js'),
   output: {
     filename: '[name]_[hash:8].js',
