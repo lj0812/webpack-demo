@@ -1,8 +1,6 @@
 # WEBPACK DEMO
 
-## 目录
-
-### 概念
+## 概念
 
 1. [webpack核心概念-entry](./demo_concept/demo_001/README.md)
 2. [webpack核心概念-output](./demo_concept/demo_002/README.md)
@@ -13,7 +11,7 @@
 7. [webpack核心概念-依赖图](./demo_concept/demo_007/README.md)
 8. [webpack核心概念-manifest](./demo_concept/demo_008/README.md)
 
-### 配置
+## 配置
 
 1. [webpack配置-总览](./demo_config/demo_000/README.md)
 2. [webpack配置-配置类型](./demo_config/demo_001/README.md)
@@ -27,3 +25,7 @@
 10. [webpack配置-watch, watchOptions](./demo_config/demo_009/README.md)
 11. [webpack配置-devtool](./demo_config/demo_010/README.md)
 12. [webpack配置-performance](./demo_config/demo_011/README.md)
+
+## loader
+
+1. [webpack loader-总览](./demo_loader/demo_000/README.md)
