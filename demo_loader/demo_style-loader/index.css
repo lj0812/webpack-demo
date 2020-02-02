@@ -1,0 +1,10 @@
+body {
+  background-color: #000000;
+}
+.test {
+  width: 100px;
+  height: 100px;
+  background-color: #FF0000;
+  font-size: 12px;
+  color: #FFFFFF;
+}
