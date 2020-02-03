@@ -26,6 +26,10 @@
 11. [webpack配置-devtool](./demo_config/demo_010/README.md)
 12. [webpack配置-performance](./demo_config/demo_011/README.md)
 
+## API
+
+1. [webpack api: cli-api](./demo_api/demo_cli-api/README.md)
+
 ## loader
 
 1. [webpack loader-总览](./demo_loader/demo_000/README.md)
