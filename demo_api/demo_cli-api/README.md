@@ -9,6 +9,7 @@
     - [不使用配置文件的用法](#不使用配置文件的用法)
   - [配置项](#配置项)
     - [环境选项](#环境选项)
+    - [配置选项](#配置选项)
 
 ## 描述
 
@@ -38,7 +39,7 @@ webpack <entry> [<entry>] -o <output>
 
 当 webpack 配置对象导出为一个函数时，可以向起传入一个"环境对象(environment)"。
 
-``` js
+``` shell
 webpack --env prod // "prod"
 webpack --env.prod // { prod: true }
 webpack --env.prod=1 // { prod: 1 }
@@ -46,4 +47,13 @@ webpack --env.prod=foo // { prod: "foo" }
 webpack --env.prod --env.min // { prod: true, min: true }
 webpack --env.prod --env min // [{ prod: true }, "min"]
 webpack --env.prod=foo --env.prod=bar // {prod: [ "foo", "bar" ]}
+```
+
+### 配置选项
+
+``` shell
+webpack --config webpack.config.js // 配置文件的路径， 默认值：webpack.config.js/webpackfile.js
+webpack --config-register [file-loader] // 在webpack配置文件加载前先预加载一个或多个模块 array
+webpack --config-name admin //要使用的配置的名称
+webpack --mode production // 用到的模式，development/production
 ```
