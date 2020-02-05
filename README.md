@@ -33,3 +33,7 @@
 ## loader
 
 1. [webpack loader-总览](./demo_loader/demo_000/README.md)
+
+## 专题
+
+1. [webpack 模块热替换](./demo_topic/demo_HMR/README.md)
