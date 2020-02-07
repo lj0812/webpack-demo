@@ -5,6 +5,7 @@
   - [原理](#原理)
   - [指南](#指南)
   - [API](#api)
+  - [参考](#参考)
 
 ## 概念
 
@@ -23,3 +24,10 @@
 ## 指南
 
 ## API
+
+## 参考
+
+- [Webpack HMR 原理解析](https://zhuanlan.zhihu.com/p/30669007)
+- [Webpack 概念：模块热替换](https://webpack.docschina.org/concepts/hot-module-replacement/)
+- [Webpack 指南：模块热替换](https://webpack.docschina.org/guides/hot-module-replacement)
+- [Webpack API：模块热替换](https://webpack.docschina.org/api/hot-module-replacement/)
